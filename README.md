@@ -1,4 +1,3 @@
-
 ## CODACY BADGE
 
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/13880149001440ab9030197edfc2a17a)](https://www.codacy.com/gh/Nat1718/M2_Heating_Seat_Applications_Embedded_C/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Nat1718/M2_Heating_Seat_Applications_Embedded_C&amp;utm_campaign=Badge_Grade)
@@ -10,9 +9,6 @@ Codiga - Code Analysis [![Codiga Badge](https://api.codiga.io/project/32919/stat
 
 Codiga - Code Analysis [![Codiga Badge](https://api.codiga.io/project/32919/score/svg)]
  
-
-
-
 ## Embedded C Project
 ### Heating Seat Application 
 
