@@ -5,7 +5,10 @@
 
  ## CODIGA BADGE
  
- https://api.codiga.io/project/32919/status/svg
+
+Codiga - Code Analysis [![Codiga Badge](https://api.codiga.io/project/32919/status/svg)]
+
+Codiga - Code Analysis [![Codiga Badge](https://api.codiga.io/project/32919/score/svg)]
  
 
 
