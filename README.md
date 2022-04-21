@@ -3,7 +3,11 @@
 
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/13880149001440ab9030197edfc2a17a)](https://www.codacy.com/gh/Nat1718/M2_Heating_Seat_Applications_Embedded_C/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Nat1718/M2_Heating_Seat_Applications_Embedded_C&amp;utm_campaign=Badge_Grade)
 
-        [(https://app.codiga.io/public/project/32919/M2_Heating_Seat_Applications_Embedded_C/dashboard)]
+ ## CODIGA BADGE
+ 
+ https://api.codiga.io/project/32919/status/svg
+ 
+
 
 
 ## Embedded C Project
